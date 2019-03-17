@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 
 
-scm>
+  <scm>
 		
 <connection>scm:svn:https://github.com/harishntt/helloworld.git</connection>
 		
