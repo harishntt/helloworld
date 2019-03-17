@@ -8,6 +8,10 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 
+
+  <scm>
+	  <developerConnection>scm:git:https://github.com/harishntt/helloworld.git</developerConnection>
+  </scm>	  
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
