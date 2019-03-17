@@ -11,9 +11,9 @@
 
   <scm>
 		
-<connection>scm:svn:https://github.com/harishntt/helloworld.git</connection>
+<connection>scm:git:https://github.com/harishntt/helloworld.git</connection>
 		
-<developerConnection>https://github.com/harishntt/helloworld.git</developerConnection>
+<developerConnection>scm:git:https://github.com/harishntt/helloworld.git</developerConnection>
 	
 </scm>
 
