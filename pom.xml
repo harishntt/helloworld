@@ -60,7 +60,7 @@
 		
 <repository>
 			
-<id>helloworld-rel</id>
+<id>deployment</id>
 			
 <name>HelloWorld Releases</name>
 			
@@ -70,7 +70,7 @@
 		
 <snapshotRepository>
 			
-<id>helloworld-snap</id>
+<id>deployment</id>
 			
 <name>HelloWorld Snapshots</name>
 <url>http://localhost:8081/nexus/content/repositories/helloworld-snap/</url>
