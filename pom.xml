@@ -33,7 +33,7 @@
  
   </dependencies>
   <build>
-   
+</plugins>   
       <plugin>
           <!-- This plugin will set the properties values using dependency information -->
           <groupId>org.apache.maven.plugins</groupId>
